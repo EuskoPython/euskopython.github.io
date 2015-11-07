@@ -1,0 +1,4 @@
+Sitemap: http://euskopython.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: euskopython.github.io
