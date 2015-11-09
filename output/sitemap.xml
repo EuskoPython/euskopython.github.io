@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://euskopython.github.io/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/2012/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/archive.html</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/categories/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/categories/blog/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/categories/cat_nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/categories/demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/categories/nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/categories/python/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/2012/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/archive.html</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/categories/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/categories/blog/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/categories/cat_nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/categories/demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/categories/nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/categories/python/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/galleries/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/galleries/demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/posts/welcome-to-nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/posts/welcome-to-nikola/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/a-study-in-scarlet/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/a-study-in-scarlet/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/a-study-in-scarlet/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/about-nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/about-nikola/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/about-nikola/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/bootstrap-demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/bootstrap-demo/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/bootstrap-demo/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/charts/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/charts/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/charts/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/creating-a-theme/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/creating-a-theme/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/creating-a-theme/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/dr-nikolas-vendetta/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/dr-nikolas-vendetta/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/dr-nikolas-vendetta/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/extending/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/extending/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/extending/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/handbook/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/handbook/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/handbook/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/internals/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/internals/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/internals/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/listings-demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/listings-demo/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/listings-demo/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/path-handlers/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/path-handlers/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/path-handlers/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/quickref/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/quickref/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/quickref/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/quickstart/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/quickstart/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/quickstart/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/slides-demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/slides-demo/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/slides-demo/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/social_buttons/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/social_buttons/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/social_buttons/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/theming/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/theming/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/theming/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/es/stories/upgrading-to-v6/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/upgrading-to-v6/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/upgrading-to-v6/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/2012/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/archive.html</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/categories/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/categories/blog/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/categories/cat_nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/categories/demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/categories/nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/categories/python/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/galleries/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/galleries/demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/posts/welcome-to-nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/posts/welcome-to-nikola/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/a-study-in-scarlet/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/a-study-in-scarlet/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/a-study-in-scarlet/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/about-nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/about-nikola/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/about-nikola/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/bootstrap-demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/bootstrap-demo/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/bootstrap-demo/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/charts/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/charts/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/charts/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/creating-a-theme/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/creating-a-theme/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/creating-a-theme/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/dr-nikolas-vendetta/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/dr-nikolas-vendetta/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/dr-nikolas-vendetta/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/extending/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/extending/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/extending/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/handbook/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/handbook/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/handbook/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/internals/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/internals/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/internals/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/listings-demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/listings-demo/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/listings-demo/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/path-handlers/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/path-handlers/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/path-handlers/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/quickref/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/quickref/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/quickref/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/quickstart/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/quickstart/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/quickstart/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/slides-demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/slides-demo/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/slides-demo/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/social_buttons/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/social_buttons/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/social_buttons/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/theming/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/theming/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/theming/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/eu/stories/upgrading-to-v6/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/upgrading-to-v6/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://euskopython.github.io/stories/upgrading-to-v6/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/galleries/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/galleries/demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/listings/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/listings/__pycache__/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/listings/hello.py.html</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/posts/welcome-to-nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/posts/welcome-to-nikola/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/a-study-in-scarlet/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/a-study-in-scarlet/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/a-study-in-scarlet/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/about-nikola/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/about-nikola/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/about-nikola/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/bootstrap-demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/bootstrap-demo/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/bootstrap-demo/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/charts/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/charts/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/charts/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/creating-a-theme/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/creating-a-theme/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/creating-a-theme/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/dr-nikolas-vendetta/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/dr-nikolas-vendetta/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/dr-nikolas-vendetta/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/extending/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/extending/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/extending/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/handbook/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/handbook/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/handbook/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/internals/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/internals/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/internals/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/listings-demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/listings-demo/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/listings-demo/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/path-handlers/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/path-handlers/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/path-handlers/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/quickref/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/quickref/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/quickref/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/quickstart/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/quickstart/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/quickstart/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/slides-demo/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/slides-demo/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/slides-demo/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/social_buttons/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/social_buttons/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/social_buttons/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/theming/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/theming/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/theming/" />
+ </url>
+ <url>
+  <loc>http://euskopython.github.io/stories/upgrading-to-v6/</loc>
+  <lastmod>2015-11-07T18:21:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="http://euskopython.github.io/es/stories/upgrading-to-v6/" />
+  <xhtml:link rel="alternate" hreflang="eu" href="http://euskopython.github.io/eu/stories/upgrading-to-v6/" />
+ </url>
+</urlset>
